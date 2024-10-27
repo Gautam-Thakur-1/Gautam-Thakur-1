@@ -10,5 +10,5 @@
 <br>
 <br>
 <div style="text-align: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hridaya14&theme=radical" alt="GitHub Profile Summary">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gautam-Thakur-1&theme=radical" alt="GitHub Profile Summary">
 </div>
